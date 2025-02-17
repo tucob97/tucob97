@@ -3,7 +3,7 @@
 
 - 🎓  Mathematical Engineer
 - 🔭  Passionate about HPC & parallel computing
-- 🌱  Exploring data structures & optimizing algorithms
+- 🌱  Exploring Data Structures & Optimization algorithms
 
 <!--
 **tucob97/tucob97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

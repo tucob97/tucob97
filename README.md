@@ -1,4 +1,6 @@
-## Hi there 👋
+## Thanks for visiting my profile!
+# about my profile
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tucob97&langs_count=5&theme=tokyonight)]()
 
 <!--
 **tucob97/tucob97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

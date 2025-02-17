@@ -1,9 +1,9 @@
 ## Thanks for visiting my profile!
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tucob97&langs_count=5&theme=tokyonight)]()
 
-- 🎓  Mathematical Engineer.
-- 🔭  Passionate about HPC & parallel computing.
-- 🌱  Learning data structures & algorithm optimization.
+- 🎓  Mathematical Engineer
+- 🔭  Passionate about HPC & parallel computing
+- 🌱  Exploring data structures & optimizing algorithms
 
 <!--
 **tucob97/tucob97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

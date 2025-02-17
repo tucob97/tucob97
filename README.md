@@ -1,6 +1,7 @@
-## Thanks for visiting my profile!
+## Thanks for visiting my profile! 👋
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tucob97&langs_count=5&theme=tokyonight)]()
 
+📝 About me:
 - 🎓  Mathematical Engineer
 - 🔭  Passionate about HPC & Parallel computing
 - 🌱  Exploring Data structures & Optimization algorithms

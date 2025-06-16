@@ -1,5 +1,4 @@
 ## Thanks for visiting my profile! 👋
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tucob97&langs_count=5&theme=tokyonight&cache_seconds=0)]()
 
 ### 📝 About me:
 - 🎓  Mathematical Engineer

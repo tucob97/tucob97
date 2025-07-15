@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 -->
 
 [My Portfolio](https://tucob97.github.io/portfolio/)
+
+## Last project created
+**memtuco** is a toy RDBMS written in Rust — not a competitor to PostgreSQL or SQLite, but a learning-focused project packed with meaningful features.
+
+It’s built using only Rust’s standard library, avoiding the complexity of external dependencies. The result is a minimalistic yet surprisingly capable system, intended more for education and exploration than production use.
+
+![Demo_memtuco](https://github.com/user-attachments/assets/60bbb1c1-1b5c-4671-a4f6-856136564c44)
